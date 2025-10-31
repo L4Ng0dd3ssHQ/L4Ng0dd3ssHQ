@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I’m Kia — welcome to **LAN Goddess HQ**
 
-<!--
-**L4Ng0dd3ssHQ/L4Ng0dd3ssHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Where networking meets creativity — building smarter, sleeker networks.*
 
-Here are some ideas to get you started:
+🌐 I design hybrid cloud and network environments, from Cisco Packet Tracer topologies to Azure and GCP labs.  
+⚙️ Currently studying for **CompTIA Network+** and **Microsoft Azure certifications**.  
+💡 Passionate about automation, secure infrastructure, and making tech a little prettier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Explore my projects:
+- 🏫 **College Campus Network**
+- 🏢 **HQ + Branch Network**
+- ☁️ **Hybrid Cloud Lab (Azure + GCP + Home Lab)**
+
+✨ *“Creativity is just structured logic with a pastel color palette.”*
