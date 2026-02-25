@@ -4,7 +4,7 @@
 ⚙️
 
 📁 Explore my projects:
-- 🏫 
+- 🏫 data-quality-and-analytics-portfoliodata-quality-and-analytics-portfolio
 - 🏢 network-design-portfolio
 - ☁️ 
 
