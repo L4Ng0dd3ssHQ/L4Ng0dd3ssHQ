@@ -5,7 +5,7 @@
 
 📁 Explore my projects:
 - 🏫 
-- 🏢 
+- 🏢 network-design-portfolio
 - ☁️ 
 
 ✨ *“Creativity is just structured logic with a pastel color palette.”*
