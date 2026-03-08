@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Kia — welcome to **LAN Goddess HQ**
+### 👋 Hi, welcome to **LAN Goddess HQ** !
 🌐  
 ⚙️
 📁 Explore my projects:
